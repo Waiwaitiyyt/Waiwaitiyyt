@@ -13,13 +13,15 @@
 
 ### *I  write some codes.*
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Biomedical+Engineering+Student;Python+%7C+AI+%7C+Simulation;Learning+JavaScript+and+TypeScript;Building+funny+stuffs..." />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Biomedical+Engineering;Python+%7C+AI+%7C+Simulation;Learning;Building+funny+stuffs..." />
 
 </div>
 
 ---
 
-<table>
+<div align="center">
+
+<table width="90%">
 <tr>
 <td width="50%" valign="top">
 
@@ -57,6 +59,8 @@ Always open to interesting projects.
 </td>
 </tr>
 </table>
+
+</div>
 
 ---
 
