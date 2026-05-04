@@ -52,7 +52,7 @@ Always open to interesting projects.
 
 * PyTorch
 * CV
-* CFD
+* CFD / FEA
 * Numerical Methods
 * Full Stack Web
 
@@ -62,25 +62,8 @@ Always open to interesting projects.
 
 </div>
 
----
-
-## Something I Like
-
-* Applied AI tools
-* CFD / FEA
-* Automation
-* Funny stuffs
 
 
----
-
-<div align="center">
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Waiwaitiyyt\&show_icons=true\&theme=tokyonight\&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Waiwaitiyyt\&layout=compact\&theme=tokyonight\&hide_border=true)
-
-</div>
 
 ---
 
