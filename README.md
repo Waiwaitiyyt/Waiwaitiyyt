@@ -87,6 +87,6 @@ Always open to interesting projects.
 <div align="center">
 
 
-*"Time you enjoy wasting is not wasted time."*
+*"快乐主义编程！Ciallo～(∠・ω< )⌒☆"*
 
 </div>
