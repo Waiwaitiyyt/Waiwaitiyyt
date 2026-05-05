@@ -52,8 +52,7 @@ Always open to interesting projects.
 
 * PyTorch
 * CV
-* CFD / FEA
-* Numerical Methods
+* CFD / FEA, Numerical Methods
 * Full Stack Web
 
 </td>
