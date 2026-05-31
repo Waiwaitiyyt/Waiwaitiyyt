@@ -11,7 +11,7 @@
 
 # 🌙 Bonjour développeur
 
-### *I  write some codes.*
+### *I  write some codes when I'm happy.*
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Biomedical+Engineering;Python+%7C+AI+%7C+Simulation;Learning;Building+funny+stuffs..." />
 
