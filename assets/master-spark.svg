@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 88" role="img" aria-labelledby="title desc">
+<title id="title">恋符「Master Spark」</title><desc id="desc">A golden mini-Hakkero projects a rainbow beam across the spell card.</desc>
+<defs>
+  <linearGradient id="beam" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#ca94ef"/><stop offset=".24" stop-color="#91d9ed"/><stop offset=".45" stop-color="#fff9d7"/><stop offset=".62" stop-color="#ffdc89"/><stop offset="1" stop-color="#ea94b4"/></linearGradient>
+  <clipPath id="edge"><rect width="1000" height="88" rx="10"/></clipPath>
+  <style>.ray{transform-origin:420px 44px;animation:pulse 4s ease-in-out infinite alternate}.streak{animation:stream 5s linear infinite}@keyframes pulse{to{transform:scaleY(.55)}}@keyframes stream{to{stroke-dashoffset:-140}}@media(prefers-reduced-motion:reduce){.ray,.streak{animation:none}}</style>
+</defs>
+<g clip-path="url(#edge)"><rect width="1000" height="88" fill="#242139"/>
+<text x="27" y="31" font-family="monospace" font-size="12" letter-spacing="2" fill="#eac783">LOVE SIGN  /  恋符</text>
+<text x="25" y="67" font-family="Georgia,serif" font-style="italic" font-size="34" fill="#fff0dc">Master Spark</text>
+<g class="ray"><path d="M419 44L1000 7v75z" fill="url(#beam)"/><path d="M424 44l576-9v19z" fill="#fffbe2"/>
+<path class="streak" d="M432 44l568-21m-568 21l568 21" fill="none" stroke="#fff8db" stroke-width="2" stroke-dasharray="42 98"/></g>
+<g transform="translate(392 44)" stroke="#efc77e" fill="#353046"><path d="M-12-29h24l17 17v24L12 29h-24l-17-17v-24z" stroke-width="2"/><circle r="14"/><path id="bar" d="M-7-22H7m-14 4h5m4 0h5"/><g fill="none"><use href="#bar" transform="rotate(45)"/><use href="#bar" transform="rotate(90)"/><use href="#bar" transform="rotate(135)"/><use href="#bar" transform="rotate(180)"/><use href="#bar" transform="rotate(225)"/><use href="#bar" transform="rotate(270)"/><use href="#bar" transform="rotate(315)"/></g><path d="M0-10L3-3l7 3-7 3-3 7-3-7-7-3 7-3z" fill="#f4cd83"/></g>
+</g></svg>
