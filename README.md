@@ -2,11 +2,13 @@
   <img src="./assets/marisa.svg" width="100%" alt="Waiwaiti’s Grimoire · 雾雨魔理沙与星盘">
 </p>
 
-# Bonjour développeur ✦
+<h1 align="center">Bonjour développeur ✦</h1>
 
-*I write some codes when I’m happy.*
+<p align="center"><em>I write some codes when I’m happy.</em></p>
 
-![Biomedical Engineering · Learning · Building fun things.](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1000&color=58A6FF&vCenter=true&width=340&height=32&lines=Biomedical+Engineering;Learning;Building+fun+things.)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;size=18&amp;pause=1000&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;width=340&amp;height=32&amp;lines=Biomedical+Engineering;Learning;Building+fun+things." alt="Biomedical Engineering · Learning · Building fun things.">
+</p>
 
 **Languages**
 
